@@ -2544,9 +2544,9 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-"kelvinjs-protob@git+https://github.com/KelvinWallet/kelvinjs-protob.git#v1.0.0":
-  version "1.0.0"
-  resolved "git+https://github.com/KelvinWallet/kelvinjs-protob.git#fd8e204bcfcf9b2b0302caa1b1fa864a7ddad656"
+"kelvinjs-protob@git+https://github.com/KelvinWallet/kelvinjs-protob.git#v1.0.1":
+  version "1.0.1"
+  resolved "git+https://github.com/KelvinWallet/kelvinjs-protob.git#947b6d94917d29c1ec96988bdf0e6e474c005aea"
   dependencies:
     "@types/google-protobuf" "3.7.2"
     google-protobuf "3.10.0"
